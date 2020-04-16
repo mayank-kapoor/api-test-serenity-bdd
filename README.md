@@ -59,7 +59,9 @@ Test report is generated at /Project Directory/target/site/serenity/index.html
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Sample Report Screenshot `
 
 
+
 ![ScreenShot](example-report.jpeg)
+
 
 ## TBD/WIP
 

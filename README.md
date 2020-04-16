@@ -62,14 +62,14 @@ Test report is generated at /Project Directory/target/site/serenity/index.html
 ![alt text](example-report/Serenity example Report.jpeg?raw=true "Sample Report")
 
 
-##TBD/WIP
+## TBD/WIP
 
 - Cucumber 5 Update
 - Dependencies Update
 - CI Build
 
 
-##Contributions
+## Contributions
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 

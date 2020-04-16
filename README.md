@@ -59,15 +59,13 @@ Test report is generated at /Project Directory/target/site/serenity/index.html
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Sample Report Screenshot `
 
 
-![alt text](example-report/Serenity example Report.jpeg?raw=true "Sample Report")
-
+![ScreenShot](example-report.jpeg)
 
 ## TBD/WIP
 
 - Cucumber 5 Update
 - Dependencies Update
 - CI Build
-
 
 ## Contributions
 
